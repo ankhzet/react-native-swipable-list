@@ -1,0 +1,48 @@
+{
+  "name": "@ankhzet/react-native-swipable-list",
+  "version": "1.0.0",
+  "description": "List with animated swipe actions made easy.",
+  "main": "src/index.ts",
+  "react-native": "src/index.ts",
+  "scripts": {
+    "test": "echo \"No test specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ankhzet/react-native-swipable-list.git"
+  },
+  "keywords": [
+    "react-native",
+    "swipable",
+    "list"
+  ],
+  "author": "AnkhZet",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ankhzet/react-native-swipable-list/issues"
+  },
+  "homepage": "https://github.com/ankhzet/react-native-swipable-list#readme",
+  "devDependencies": {
+    "@types/hoist-non-react-statics": "^3.3.1",
+    "@types/react": "^16.7.7",
+    "@types/react-native": "^0.57.65",
+    "hoist-non-react-statics": "^3.3.0",
+    "mobx": "^4.4.0",
+    "mobx-react": "^5.2.5",
+    "react": "^16.8.0",
+    "react-native": "^0.59.0",
+    "react-native-swipe-list-view": "^2.0.0",
+    "react-navigation": "^3.0.9",
+    "typescript": "^3.0.0"
+  },
+  "peerDependencies": {
+    "mobx": "^4.4.0",
+    "mobx-react": "^5.2.5",
+    "react": "^16.8.0",
+    "react-native": "^0.59.0",
+    "react-native-swipe-list-view": "^2.0.0"
+  },
+  "optionalDependencies": {
+    "react-navigation": "^3.0.9"
+  }
+}
