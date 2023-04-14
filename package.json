@@ -27,7 +27,7 @@
     "@types/react": "^16.7.7",
     "@types/react-native": "^0.57.65",
     "hoist-non-react-statics": "^3.3.0",
-    "mobx": "^4.4.0",
+    "mobx": "^5.15.7",
     "mobx-react": "^5.2.5",
     "react": "^16.8.0",
     "react-native": "^0.62.3",
@@ -36,7 +36,7 @@
     "typescript": "^3.0.0"
   },
   "peerDependencies": {
-    "mobx": "^4.4.0",
+    "mobx": "^5.15.7",
     "mobx-react": "^5.2.5",
     "react": "^16.8.0",
     "react-native": "^0.62.3",
