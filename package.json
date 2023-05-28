@@ -44,5 +44,8 @@
   },
   "optionalDependencies": {
     "react-navigation": "^4.4.4"
+  },
+  "resolutions": {
+    "minimist": "^0.2.4"
   }
 }
