@@ -32,7 +32,7 @@
     "react": "^16.8.0",
     "react-native": "^0.72.4",
     "react-native-swipe-list-view": "^3.2.9",
-    "react-navigation": "^4.4.4",
+    "react-navigation": "^5.0.0",
     "typescript": "^5.2.2"
   },
   "peerDependencies": {
@@ -43,7 +43,7 @@
     "react-native-swipe-list-view": "^3.2.9"
   },
   "optionalDependencies": {
-    "react-navigation": "^4.4.4"
+    "react-navigation": "^5.0.0"
   },
   "resolutions": {
     "minimist": "^0.2.4"
