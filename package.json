@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/ankhzet/react-native-swipable-list#readme",
   "devDependencies": {
-    "@types/hoist-non-react-statics": "^3.3.1",
+    "@types/hoist-non-react-statics": "^3.3.5",
     "@types/react": "^16.7.7",
     "@types/react-native": "^0.72.2",
     "hoist-non-react-statics": "^3.3.0",
