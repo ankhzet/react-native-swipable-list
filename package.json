@@ -30,7 +30,7 @@
     "mobx": "^5.15.7",
     "mobx-react": "^5.2.5",
     "react": "^16.8.0",
-    "react-native": "^0.73.1",
+    "react-native": "^0.73.3",
     "react-native-swipe-list-view": "^3.2.9",
     "react-navigation": "^4.4.4",
     "typescript": "^5.3.3"
@@ -39,7 +39,7 @@
     "mobx": "^5.15.7",
     "mobx-react": "^5.2.5",
     "react": "^16.8.0",
-    "react-native": "^0.73.1",
+    "react-native": "^0.73.3",
     "react-native-swipe-list-view": "^3.2.9"
   },
   "optionalDependencies": {
